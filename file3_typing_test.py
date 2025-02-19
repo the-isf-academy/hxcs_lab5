@@ -1,10 +1,15 @@
 # /////////// INSTRUCTIONS /////////////////
 # 🎲 Let's make a typing test!
 
-# 💻️⃣ Run the file multiple times to test the timer
-#    - Currently, it does not display an accurate total_time 
-
-# 💻️⃣ In line 22, fix the total_time
+# 💻️⃣ Run the file to see how it works. 
+#     It's up to you to finish the game!
+#
+# Extension ideas: 
+#   - add words per minute 
+#       - tell the user their WPM
+#
+#   - add difficulty settings
+#       - easy, medium, hard 
 
 # \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
