@@ -37,11 +37,11 @@ input("> Input any key to start the game! ")
 
 start_time = time()    # store start time 
 
-# ⬇️💻️ print a random sentence from sentence_list
+# ⬇️💻️ create a varible that stores a random sentence from sentence_list
 
 
 
-user_test = input("") # stores the user input 
+user_test = input("") # stores the user input typing test
 
 end_time = time()   # store end time
  
@@ -52,4 +52,6 @@ total_time = 0
 
 
 
-# ⬇️💻️ use the example from file2_example.py to print the accuratacy percentage of the user_test
+# ⬇️💻️ use the example from file2_example.py 
+#     to calcaulte the accuratacy percentage of the user_test
+#     then, print the accuracy
